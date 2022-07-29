@@ -1,18 +1,41 @@
 <h1 align="center">Hi 👋, I'm Eslam Hamouda Ali</h1>
 <h3 align="center">A passionate android developer from Egypt</h3>
+👨‍💻I'm a student in computer science<br>💻 I have experience in problem solving using C++, Data structures, Algorithms<br>🔭 I’m currently working on many projects in android using Java, Kotlin to boost my experience<br>👯 I’m looking to collaborate on projects that could help community<br>👌 I'm looking forward to gain more experience in my field<br>💬 Ask me about any topic related to android<br>⚡ have fun with coding
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamhamouda&label=Profile%20views&color=0e75b6&style=flat" alt="eslamhamouda" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eslam-hamouda-ali-36b1061b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam-hamouda-ali-36b1061b2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eslam_hamouda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eslam_hamouda" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslam-hamouda-ali-36b1061b2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14474840) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🌐 Projects:
+- 📱Schedule , note app using kotlin, RoomDB, viewModel and live data [On.Time](https://github.com/EslamHamouda/On.Time-App)
+- 📱A simple offline wallpaper app using Java [Offline wallpaper](https://github.com/EslamHamouda/Offline-wallpaper)
+- 📱Wallpaper app using Java, firebaseDB [Wallpaper](https://github.com/EslamHamouda/Wallpaper-app-with-firebase-database)
+- 📱Tour guide app using Java that show locations and its descriptions [Tour guide](https://github.com/EslamHamouda/Tour-guide-app)
+- 📱Fast shop app using Java [Fast shop](https://github.com/EslamHamouda/Fast-shop)
+- 📱A simple calculator Java [Calculator](https://github.com/EslamHamouda/Calculator-Java-)
+- 💻Courses website using, HTML, CSS, Bootstrap and PHP [Courses website](https://github.com/EslamHamouda/Courses-website)
+- 💻Library database desktop app using C#, Binaryfile, GUI included [Library Database](https://github.com/EslamHamouda/Library-Database-using-binary-file)
+- 💻College system desktop app using Java, sql server, GUI included [College Database](https://github.com/EslamHamouda/College-Management-System)
+- 💻Contact system using C++, Linked list, sorting [Contact system](https://github.com/EslamHamouda/Contact-system-with-linked-list-and-sort)
+- 💻Scientific calculator system using C++ [Scientific calculator](https://github.com/EslamHamouda/Full-scientific-calculator-c-)
+- 💻Chat system desktop app using Java, Socket IO [Chat system](https://github.com/EslamHamouda/Chat-socket-gui)
+- 💻Hotel system using C++ to store information and search about it [Hotel system](https://github.com/EslamHamouda/Hotel-System)
+- 💻A simple implementation for linear programming using C++ [Linear programming](https://github.com/EslamHamouda/Linear-programming)
+- 💻A simple implementation for simplex method using C++ [Simplex method](https://github.com/EslamHamouda/Simplex-method)
+- 💻A simple implementation for Reader and Writer problem using C++, thread, mutex [Reader and Writer problem](https://github.com/EslamHamouda/Reader-and-writer-problem)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslamhamouda&show_icons=true&locale=en&layout=compact" alt="eslamhamouda" /></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=eslamhamouda&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=eslamhamouda&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamhamouda&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eslamhamouda&show_icons=true&locale=en" alt="eslamhamouda" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eslamhamouda&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+
+---
+[![](https://visitcount.itsvg.in/api?id=eslamhamouda&icon=2&color=1)](https://visitcount.itsvg.in)
