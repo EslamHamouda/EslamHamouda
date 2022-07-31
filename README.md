@@ -9,7 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eslam-hamouda-ali-36b1061b2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14474840) 
 
-## 🌐 Projects:
+## 👨‍💻 Projects:
 - 📱Schedule , note app using kotlin, RoomDB, viewModel and live data [On.Time](https://github.com/EslamHamouda/On.Time-App)
 - 📱A simple offline wallpaper app using Java [Offline wallpaper](https://github.com/EslamHamouda/Offline-wallpaper)
 - 📱Wallpaper app using Java, firebaseDB [Wallpaper](https://github.com/EslamHamouda/Wallpaper-app-with-firebase-database)
