@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/69871727?s=400&u=0ccc9e85a3d7213eaf9ae5951549bafb52868b08&v=4" align="center"/>
 </div> 
-👨‍💻I'm a student in computer science<br>💻 I have experience in problem solving using C++, Data structures, Algorithms<br>🔭 I’m currently working on many projects in android using Java, Kotlin to boost my experience<br>👯 I’m looking to collaborate on projects that could help community<br>👌 I'm looking forward to gain more experience in my field<br>💬 Ask me about any topic related to android<br>⚡ have fun with coding
+👨‍💻I'm graduated from computer science<br>💻 I have experience in problem solving using C++, Data structures, Algorithms<br>🔭 I’m currently working on many projects in android using Java, Kotlin to boost my experience<br>👯 I’m looking to collaborate on projects that could help community<br>👌 I'm looking forward to gain more experience in my field<br>💬 Ask me about any topic related to android<br>⚡ have fun with coding
 
 
 ## 🌐 Socials:
